@@ -1,0 +1,17 @@
+{
+  "name": "28-stu_mini-project",
+  "version": "1.0.0",
+  "description": "In this mini-project, you will build Rest API routes for creating, retrieving, and deleting movies from a MySQL database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.3.2",
+    "mysql2": "^2.2.5"
+}
+}
