@@ -24,7 +24,7 @@ VALUES
 
 INSERT INTO movieReviews (review, movie_link)
 VALUES
-("Great Story Line", 1),
+
 ("Beautiful visuals!",3),
 ("Generational Classic",2);
 
